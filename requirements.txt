@@ -1,0 +1,4 @@
+wikipedia
+duckduckgo-search
+transformers
+torch
